@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohyemae.fieldnotes.tech/sitemap.xml
